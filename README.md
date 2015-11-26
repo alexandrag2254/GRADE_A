@@ -11,3 +11,7 @@ other projects
 4) https://www.cryptocoinsnews.com/engineering-school-simplifies-verifying-certificates-using-block-chain/
 
 5) bitproof
+
+Resource:
+
+http://www.coindesk.com/five-insights-bitcoin-founder-funding/
